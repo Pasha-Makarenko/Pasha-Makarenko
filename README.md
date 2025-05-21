@@ -27,7 +27,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript">
   <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original.svg" width="40" height="40" alt="Nest">
   <img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" width="40" height="40" alt="Angular">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original.svg" width="40" height="40" alt="Next.js">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" width="40" height="40" alt="Next.js">
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL">
   <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" width="40" height="40" alt="Redis">
   <img src="https://github.com/devicons/devicon/blob/master/icons/sequelize/sequelize-original.svg" width="40" height="40" alt="Sequelize">
