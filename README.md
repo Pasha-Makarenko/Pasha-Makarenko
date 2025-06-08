@@ -1,4 +1,4 @@
-<h1>👋 Hi there, I'm Pasha Makarenko</h1>
+<h1>👋 Hi there, I'm Pavlo Makarenko</h1>
 
 <p>I'm a student at <b>KPI</b> (Igor Sikorsky Kyiv Polytechnic Institute) studying at the <b>FICE</b> faculty. Passionate about full-stack development and modern web technologies.</p>
 
