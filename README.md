@@ -29,12 +29,15 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" width="40" height="40" alt="Angular">
   <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" width="40" height="40" alt="Next.js">
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/rabbitmq/rabbitmq-original.svg" width="40" height="40" alt="RabbitMQ">
   <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" width="40" height="40" alt="Redis">
   <img src="https://github.com/devicons/devicon/blob/master/icons/sequelize/sequelize-original.svg" width="40" height="40" alt="Sequelize">
   <img src="https://github.com/devicons/devicon/blob/master/icons/rxjs/rxjs-original.svg" width="40" height="40" alt="RxJs">
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" width="40" height="40" alt="Redux">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="40" height="40" alt="Docker">
   <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" width="40" height="40" alt="Jest">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="40" height="40" alt="Docker">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/prometheus/prometheus-original.svg" width="40" height="40" alt="Prometheus">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-original.svg" width="40" height="40" alt="Grafana">
 </div>
 
 <h2>📈 GitHub Stats</h2>
